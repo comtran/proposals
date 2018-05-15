@@ -2,4 +2,4 @@
 
 An open proposal to COMTRAN.
 
-You could open an issue if you any thoughts for COMTRAN future.
+You could open an issue if you have any thoughts for COMTRAN future.
